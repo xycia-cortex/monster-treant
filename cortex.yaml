@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-treant
+  x-cortex-tag: monster-treant
+  x-cortex-custom-metadata:
+    alignment: lawful-good
+    type: aberration
+    challenge_rating: 10
+    legendary: false
+    armor_class: 10
+    hit_points: 71
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-treant
+      alias: github-token-test
